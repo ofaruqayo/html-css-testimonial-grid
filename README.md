@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ofaruqayo/html-css-testimonial-grid)
+- Solution URL: [Add solution URL here](https://github.com/ofaruqayo/html-css-testimonial-grid.git)
 - Live Site URL: [Add live site URL here](https://ofaruqayo.github.io/html-css-testimonial-grid/)
 
 ## My process
